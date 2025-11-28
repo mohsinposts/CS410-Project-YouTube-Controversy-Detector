@@ -211,4 +211,4 @@ If a specific channel or video keeps causing problems, you can remove that chann
 
 A short usage tutorial for this project is available on Illinois Media Space.
 
-Tutorial video link: PASTE_MEDIA_SPACE_LINK_HERE
+Tutorial video link: https://mediaspace.illinois.edu/media/t/1_elotad73
